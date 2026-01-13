@@ -189,6 +189,8 @@
 
 == Skills
 
+#strong[Licencias:] B1 carne de coche 2021
+
 #strong[Languages:] Python, C++, Dart, Javascript, Typescript
 
 #strong[ML Frameworks:] PyTorch, sklearn, TensorFlow

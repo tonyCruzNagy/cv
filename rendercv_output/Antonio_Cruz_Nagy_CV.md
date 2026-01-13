@@ -60,6 +60,8 @@ Nov 2022
 
 
 # Skills
+**Licencias:** B1 carne de coche 2021
+
 **Languages:** Python, C++, Dart, Javascript, Typescript
 
 **ML Frameworks:** PyTorch, sklearn, TensorFlow
