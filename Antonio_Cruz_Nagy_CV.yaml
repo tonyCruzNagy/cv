@@ -66,6 +66,8 @@ cv:
           - Uso de definicion de usuario para sostenibilidad, fidelización.
           - Caracterización de los usuarios para personalización.
     skills:
+      - label: Licencias
+        details: B1 carne de coche 2021
       - label: Languages
         details: Python, C++, Dart, Javascript, Typescript
       - label: ML Frameworks
