@@ -1,0 +1,260 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Antonio Cruz Nagy
+  headline:
+  location: Ferrol, A Coruña
+  email: devinfojob@gmail.com
+  photo:
+  phone: +34-640624201
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: antonio-cruz-nagy
+    - network: GitHub
+      username: tonyCruzNagy
+  custom_connections:
+  sections:
+    education:
+      - institution: Universidad Da Coruña
+        area: Ingenieria Industrial
+        degree: Ingenieria Electronica Industrial y Automatica
+        date:
+        start_date: 2021-09
+        end_date: present
+        location: Ferrol, A Coruña
+        summary:
+        highlights:
+          - Rama de Iot y Big Data
+    experience:
+      - company: Prosfy
+        position: Co-Founder & CTO
+        date:
+        start_date: 2022-06
+        end_date: present
+        location: Remoto, Malaga
+        summary:
+        highlights:
+          - Desarrollo de una plataforma de Compensacion para Empresas y usuarios
+          - Responsable tecnico del producto, tanto frontend como backend, infraestructura y despliegue
+          - Encargado de los comentarios de clientes, gestion de proyectos y seguimiento de tareas.
+    projects:
+      - name: "[BigDataScanner](https://github.com/tonyCruzNagy/bigdata)"
+        date:
+        start_date: 2022-01
+        end_date: 2023-01
+        location:
+        summary: Escaner y busqueda de productos para saber sus detalles y precio en tiendas
+      - name: "[MQTT](https://github.com/tonyCruzNagy/mqtt)"
+        date: "2021"
+        start_date:
+        end_date:
+        location:
+        summary: Implementacion de un cliente MQTT para la gestion de datos en tiempo real
+        highlights:
+          - Lectura de sensor de temperatura y luminosidad con dashboard en tiempo real
+          - Control de leds desde el dashboard y con condicionales de temperatura y luminosidad
+    publications:
+      - title: "[Implementacion de IA en el canal HORECA](https://www.academia.edu/85796185/Implementaci%C3%B3n_de_tecnolog%C3%ADa_NFC_en_el_canal_HORECA_sostenibilidad_fidelizaci%C3%B3n_y_definici%C3%B3n_del_perfil_del_usuario)"
+        authors:
+          - "*Antonio Cruz Nagy*"
+          - Felix Puime-Guillen
+          - Sofia Yaringaño Rivera
+        doi: 10.22490/25392786.6106
+        journal: Revista Estrategia Organizacional
+        date: 2022-11
+        highlights:
+          - Uso de definicion de usuario para sostenibilidad, fidelización.
+          - Caracterización de los usuarios para personalización.
+    skills:
+      - label: Languages
+        details: Python, C++, Dart, Javascript, Typescript
+      - label: ML Frameworks
+        details: PyTorch, sklearn, TensorFlow
+      - label: Web
+        details: Angular.js, Vue.js, Astro.js
+      - label: Infrastructure
+        details: Google Cloud Platform, Cloudflare, Docker
+    invited_talks:
+      - reversed_number: Prosfy Growth your personal value
+      - reversed_number: Navantia Pioneers hackathon
+design:
+  theme: engineeringclassic
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: false
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: spanish
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: "2026-01-06"
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
